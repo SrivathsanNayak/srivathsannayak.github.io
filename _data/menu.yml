@@ -1,0 +1,16 @@
+entries:
+  - title: cybersecurity enthusiast & student
+
+  - title: find me
+    entries:
+      - title: email
+        url: mailto:ganeshsrivathsan@gmail.com
+      - title: github
+        url: https://github.com/srivathsannayak
+      - title: linkedin
+        url: https://www.linkedin.com/in/srivathsannayak/
+      - title: tryhackme
+        url: https://tryhackme.com/p/svheartvsnares
+  
+  - title: posts
+    post_list: true

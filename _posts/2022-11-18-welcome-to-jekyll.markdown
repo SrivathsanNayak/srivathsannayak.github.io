@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+slug: intro
+---
+
+Hello, I'm Srivathsan Nayak, and I have no idea what I'm doing.
+
+This is my first blog post, and I just wanted to check if everything is working properly or not.
+
+If you can read this, that means it works!
+
+Hopefully I will *actually* post something here, later :)
