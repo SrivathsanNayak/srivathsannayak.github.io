@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "First"
+title: "First"
 ---
 
 Hello, I'm Srivathsan Nayak, and I have no idea what I'm doing.
