@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "First post!"
+slug: first
 ---
 
 Hello, I'm Srivathsan Nayak, and I have no idea what I'm doing.
