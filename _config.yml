@@ -7,6 +7,8 @@ description: Portfolio of Srivathsan Nayak
 baseurl: ""
 url: "https://srivathsannayak.github.io/"
 github_username:  srivathsannayak
+permalink: /:slug.html
+future: true
 
 # Build settings
 remote_theme: riggraz/no-style-please
@@ -15,9 +17,9 @@ plugins:
   - jekyll-target-blank
 
 theme_config:
-  appearance: "dark"
   back_home_text: ".."
   date_format: "%d-%m-%Y"
+  appearance: "dark"
   show_description: false
 
 # Exclude from processing.

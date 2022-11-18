@@ -3,14 +3,14 @@ entries:
 
   - title: find me
     entries:
-      - title: email
-        url: mailto:ganeshsrivathsan@gmail.com
-      - title: github
-        url: https://github.com/srivathsannayak
-      - title: linkedin
-        url: https://www.linkedin.com/in/srivathsannayak/
-      - title: tryhackme
-        url: https://tryhackme.com/p/svheartvsnares
+      - title: "<a href='mailto:ganeshsrivathsan@gmail.com'>email</a>"
+      - title: "<a href='https://github.com/srivathsannayak'>github</a>"
+      - title: "<a href='https://www.linkedin.com/in/srivathsannayak'>linkedin</a>"
+      - title: "<a href='https://tryhackme.com/p/svheartvsnares'>tryhackme</a>"
   
   - title: posts
     post_list: true
+
+  - title: references
+    entries:
+      - title: "theme: <a href='https://github.com/riggraz/no-style-please'>no style please</a>"
