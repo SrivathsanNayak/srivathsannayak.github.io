@@ -12,10 +12,10 @@ github_username:  srivathsannayak
 remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
+  - jekyll-target-blank
 
 theme_config:
-
-  back_home_text: ".."
+  appearance: "dark"
   date_format: "%d-%m-%Y"
   show_description: false
 
