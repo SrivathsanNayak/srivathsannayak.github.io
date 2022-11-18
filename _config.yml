@@ -16,6 +16,7 @@ plugins:
 
 theme_config:
   appearance: "dark"
+  back_home_text: ".."
   date_format: "%d-%m-%Y"
   show_description: false
 
@@ -38,4 +39,3 @@ theme_config:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-permalink: /:title.html
